@@ -12,9 +12,9 @@
   <li>🧬 I’m currently learning Data Science</li>
   <li>🌍 Look up my Website</li>
   <li> Creating Content </li>
-  <li> Learning French</li><img align="right" height="125em" 
+  <li> Learning French</li>
+  <li> Learning AWS</li><img align="right" height="125em" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristoperBA&layout=compact&langs_count=7&theme=tokyonight"/>
-  <li> Learning AWS</li>
   <li> Languages</li>
   <ul> 
     <li>Spanish Native Language</li>
