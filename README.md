@@ -6,9 +6,9 @@
   <!––Ideas para Readme https://github.com/abhisheknaiidu/awesome-github-profile-readme#anime  ––>
   <a href="https://github.com/ChristoperBA">
 
-<a href="">Resume</a>
+</a>
  <h2>📊About me</h2>
-<ul>
+<ul type="disc">
    <img align="right" height="150em"
    src="https://github-readme-stats.vercel.app/api?username=ChristoperBA&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <li>💻 Computer Science Student</li>
@@ -20,7 +20,7 @@
   <li> Learning AWS</li><img align="right" height="125em" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristoperBA&layout=compact&langs_count=7&theme=react"/>
   <li> Languages</li>
-  <ul> 
+  <ul type="circle"> 
     <li>Spanish Native Language</li>
     <li>English B2</li>
       <li>French  B2+</li>
