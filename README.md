@@ -7,7 +7,7 @@
   <a href="https://github.com/ChristoperBA">
 
 </a>
- <h2>📊About me</h2>
+ <h2>🧐About me</h2>
 <ul type="disc">
    <img align="right" height="150em"
    src="https://github-readme-stats.vercel.app/api?username=ChristoperBA&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
@@ -46,7 +46,9 @@
   <img align="center" alt="Chris-Windows" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 </div>
     
-<h2>🌎Social Links</h2>
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="25px"> Social Links
+
+
 <div> 
   <!–– Acomodar por orden de importancia ––>
   <p class="text-white mb-0 tm-site-desc"></p>
