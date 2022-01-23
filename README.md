@@ -28,7 +28,7 @@
 </ul>
 
  
-<h2>📊 Programming Languages </h2>
+<h2>💻 Programming Languages </h2>
 <div style="display: inline_block"><br>
   <!––Acomodar Lenguajes de programación y tecnologias por separado ––>
   <img align="center" alt="Chris-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -37,7 +37,7 @@
   <img align="center" alt="Chris-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
 </div>
  
- <h2>📊 Technologies | Tools | Enviroment | IDEs </h2>
+ <h2>🛠️ Technologies | Tools | Enviroment | IDEs </h2>
 <div style="display: inline_block"><br>
   <!––Acomodar Lenguajes de programación y tecnologias por separado ––>
   <img align="center" alt="Chris-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
