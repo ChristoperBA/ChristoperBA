@@ -13,7 +13,8 @@
   <li>💻 Computer Science Student</li>
   <li>🚩 Costa Rica</li> 
   <li>🧬 I’m currently learning Data Science</li>
-  <li>🌍 Look up my Website</li>
+  
+  <li>🌍 Look up my <a href="https://christoperba.github.io/">Website</a></li>
   <li>📱  TechLover </li>
   <li>📝 Checkout my <a href="https://sneaky-dugong-c86.notion.site/About-me-e69c312872b54688b0b88119211ab872">Resume</a></li>
   <li> Learning AWS</li><img align="right" height="125em" 
@@ -54,7 +55,7 @@
   <p class="text-white mb-0 tm-site-desc"></p>
   <a href="https://www.linkedin.com/in/christopher-brice%C3%B1o-arias-1b166420b/" > 
     <img height="30" width="100"src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://google.com/"> 
+  <a href="https://christoperba.github.io/"> 
      <img height="30" width="100" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white"></a>
    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=bricenoc506@gmail.com">
     <img height="30" width="100" src="https://img.shields.io/badge/-Email-25251F?style=for-the-badge&logo=gmail&logoColor=white"></a>
