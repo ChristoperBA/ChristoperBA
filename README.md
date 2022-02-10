@@ -1,9 +1,8 @@
-<h2 align="center"><img height="40" width="50" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">Hello World!, Welcome to my Github Open Source🤍 
-<!–– "https://git.io/typing-svg" ––>
-</h2>
+<h2 align="center"><img height="40" width="50" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">Hello World!, Welcome to my Github Open Source</h2> 
 
+[comment]: <> (About me)
+<body>
   <div align="left">
-  <!––Ideas para Readme https://github.com/abhisheknaiidu/awesome-github-profile-readme#anime  ––>
   <a href="https://github.com/ChristoperBA">
 </a>
  <h2>🧐About me</h2>
@@ -13,11 +12,10 @@
   <li>💻 Computer Science Student</li>
   <li>🚩 Costa Rica</li> 
   <li>🧬 I’m currently learning Data Science</li>
-  
   <li>🌍 Look up my <a href="https://christoperba.github.io/">Website</a></li>
   <li>📱  TechLover </li>
   <li>📝 Checkout my <a href="https://sneaky-dugong-c86.notion.site/About-me-e69c312872b54688b0b88119211ab872">Resume</a></li>
-  <li> Learning AWS</li><img align="right" height="125em" 
+  <img align="right" height="125em" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristoperBA&layout=compact&langs_count=7&theme=react"/>
   <li> Languages</li>
   <ul type="circle"> 
@@ -26,30 +24,27 @@
       <li>French  B2+</li>
   </ul>
 </ul>
-
- 
-
+  
+[comment]: <> (Programming Languajes)
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Programming Languages 
 <div style="display: inline_block"><br>
-  <!––Acomodar Lenguajes de programación y tecnologias por separado ––>
-  <img align="center" alt="Chris-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Chris-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Chris-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Chris-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+  <img align="center"alt="Chris-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img  alt="Chris-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img href="" align="center" alt="Chris-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img href="" align="center" alt="Chris-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
 </div>
  
+  [comment]: <> (Technologies,tools, enviroment, IDEs...)
  <h2>🛠️ Technologies | Tools | Enviroment | IDEs </h2>
-
 <div style="display: inline_block"><br>
-  <!––Acomodar Lenguajes de programación y tecnologias por separado ––>
   <img align="center" alt="Chris-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Chris-GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="Chris-VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img align="center" alt="Chris-Windows" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 </div>
     
+ [comment]: <> (Social Media)
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="23px"> Social Links
-
 <div> 
   <!–– Acomodar por orden de importancia ––>
   <p class="text-white mb-0 tm-site-desc"></p>
@@ -65,8 +60,6 @@
     <img height="30" width="100" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
   <a href="https://sneaky-dugong-c86.notion.site/About-me-e69c312872b54688b0b88119211ab872">
     <img alt="Notion" height="30" width="100" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
-  <a href="https://www.instagram.com/__chococris.py/">
-    <img height="30" width="100" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a> 
 <br/><br/>
  <p align="center"> 
    
@@ -74,4 +67,4 @@
 </p>
  <h3 align="center">⬇️ Check my pinned projects below and leave a⭐️ ⬇️</h3><br/>
 
-
+</body>
