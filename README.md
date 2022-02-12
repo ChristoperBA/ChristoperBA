@@ -13,10 +13,10 @@
   <li>🚩 Costa Rica</li> 
   <li>🧬 I’m currently learning Data Science</li>
   <li>🌍 Look up my <a href="https://christoperba.github.io/">Website</a></li>
-  <li>📱  TechLover </li><img align="right" height="125em" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristoperBA&layout=compact&langs_count=7&theme=react"/>
+  <li>📱  TechLover </li>
   <li>📝 Checkout my <a href="https://sneaky-dugong-c86.notion.site/About-me-e69c312872b54688b0b88119211ab872">Resume</a></li>
-  <li> Languages</li>
+  <li> Languages</li><img align="right" height="125em" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristoperBA&layout=compact&langs_count=7&theme=react"/>
   <ul type="circle"> 
     <li>Spanish Native Language</li>
     <li>English B2</li>
