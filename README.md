@@ -46,7 +46,6 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="23px"> Social Links
 <div> 
   <!–– Acomodar por orden de importancia ––>
-  <p class="text-white mb-0 tm-site-desc"></p>
   <a href="https://www.linkedin.com/in/christopher-brice%C3%B1o-arias-1b166420b/" > 
     <img height="30" width="100"src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://christoperba.github.io/"> 
