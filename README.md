@@ -26,13 +26,13 @@
   
 [comment]: <> (Programming Languajes)
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Programming Languages 
-<div style="display: inline_block"><br>
+<div ><br>
   <img align="center"alt="Chris-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img  alt="Chris-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img href="" align="center" alt="Chris-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img href="" align="center" alt="Chris-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
 </div>
- 
+    
   [comment]: <> (Technologies,tools, enviroment, IDEs...)
  <h2>🛠️ Technologies | Tools | Enviroment | IDEs </h2>
 <div style="display: inline_block"><br>
