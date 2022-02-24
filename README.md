@@ -14,7 +14,7 @@
   <li>🧬 I’m currently learning Data Science</li>
   <li>🌍 Look up my <a href="https://christoperba.github.io/">Website</a></li>
   <li>📱  TechLover </li>
-  <li>📝 Checkout my <a href="https://sneaky-dugong-c86.notion.site/About-me-e69c312872b54688b0b88119211ab872">Resume</a></li>
+  <li>📝 Checkout my <a href="https://christoperba.github.io/pages/resume">Resume</a></li>
   <li> Languages</li><img align="right" height="125em" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristoperBA&layout=compact&langs_count=7&theme=react"/>
   <ul type="circle"> 
@@ -27,10 +27,11 @@
 [comment]: <> (Programming Languajes)
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Programming Languages 
 <div ><br>
-  <img align="center"alt="Chris-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img  alt="Chris-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img href="" align="center" alt="Chris-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img href="" align="center" alt="Chris-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+  <img  align="center" alt="Chris-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img  align="center" alt="Chris-Java"   height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img  align="center" alt="Chris-HTML"   height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img  align="center" alt="Chris-CSS"    height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img  align="center" alt="Chris-JS"     height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
     
   [comment]: <> (Technologies,tools, enviroment, IDEs...)
