@@ -11,7 +11,7 @@
    src="https://github-readme-stats.vercel.app/api?username=ChristoperBA&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>-->
   <li>💻 Computer Science Student</li>
   <li>🚩 Costa Rica</li> 
-  <li>🧬 I’m currently learning #</li>
+  <li>🧬 I’m currently learning in Coding Interview University</li>
   <li>🌍 Look up my <a href="https://christoperba.github.io/">Website</a></li>
   <li>📱  TechLover </li>
   <li>📝 Checkout my <a href="https://christoperba.github.io/pages/resume">Resume</a></li>
