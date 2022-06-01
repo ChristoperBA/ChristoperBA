@@ -45,7 +45,7 @@
 </div>
     
  [comment]: <> (Social Media)
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="23px"> Social Links
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif"  height="23px" width="23px"> Social Links
 <div> 
   <!–– Acomodar por orden de importancia ––>
   <a href="https://www.linkedin.com/in/christopher-brice%C3%B1o-arias-1b166420b/" > 
