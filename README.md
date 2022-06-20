@@ -7,11 +7,10 @@
 </a>
  <h2>🧐About me</h2>
 <ul type="disc">
-   <img align="right" height="150em"
+   <img align="right" height="125em"
    src="https://github-readme-stats.vercel.app/api?username=ChristoperBA&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <li>💻 Computer Science Student</li>
   <li>🚩 Costa Rica</li> 
-  <li>🧬 I’m currently learning in Coding Interview University</li>
   <li>🌍 Look up my <a href="https://christoperba.github.io/">Website</a></li>
   <li>📱  TechLover </li>
   <li>📝 Checkout my <a href="https://christoperba.github.io/pages/resume">Resume</a></li>
@@ -48,7 +47,7 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif"  height="23px" width="23px"> Social Links
 <div> 
   <!–– Acomodar por orden de importancia ––>
-  <a href="https://www.linkedin.com/in/christopher-brice%C3%B1o-arias-1b166420b/" > 
+  <a href="https://www.linkedin.com/in/christopher-brice%C3%B1o%E2%9C%A8-1b166420b/" > 
     <img height="30" width="100"src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://christoperba.github.io/"> 
      <img height="30" width="100" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white"></a>
