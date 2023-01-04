@@ -41,6 +41,10 @@
   <img align="center" alt="Chris-GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="Chris-VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img align="center" alt="Chris-Windows" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+   <img align="center" alt="Chris-Sql" height="45" width="45" 
+             src="https://cyclr.com/wp-content/uploads/2022/03/ext-550.png" />
+          
+          
 </div>
     
  [comment]: <> (Social Media)
