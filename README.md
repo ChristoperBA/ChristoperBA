@@ -20,7 +20,7 @@
   <ul type="circle"> 
     <li>Spanish Native Language</li>
     <li>English B2</li>
-      <li>French  B2+</li>
+      <li>French  B2</li>
   </ul>
 </ul>
   
